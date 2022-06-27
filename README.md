@@ -1,4 +1,4 @@
-# NuBack Interface
+# Chat Firebase
 Projeto de chat feito com o Firebase em Ionic Framework, Angular, HTML, SCSS, Typescript.
 <br/>
 <br/>
